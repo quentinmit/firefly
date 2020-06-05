@@ -1,0 +1,12 @@
+[submodule "vendor/unidecode"]
+	path = vendor/unidecode
+	url = https://github.com/martastain/unidecode
+[submodule "vendor/nxtools"]
+	path = vendor/nxtools
+	url = https://github.com/immstudios/nxtools
+[submodule "vendor/nebula-core"]
+	path = vendor/nebula-core
+	url = https://github.com/immstudios/nebula-core
+[submodule "vendor/pyqt-bootstrap"]
+	path = vendor/pyqt-bootstrap
+	url = https://github.com/martastain/pyqt-bootstrap
